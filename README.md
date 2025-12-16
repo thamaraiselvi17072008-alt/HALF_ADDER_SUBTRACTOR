@@ -57,8 +57,10 @@ Developed by: THAMARAISELVI.V RegisterNumber:25015455*/
 **RTL Schematic**
 
 Half adder
+
 <img width="369" height="167" alt="e333" src="https://github.com/user-attachments/assets/b4705052-b7b8-45e5-97bd-2e932b7be5f1" />
 Half subtractor
+
 <img width="396" height="133" alt="e3333" src="https://github.com/user-attachments/assets/58ac621a-5513-4926-a155-67ad1ceb8b53" />
 
 **Output/TIMING Waveform**
